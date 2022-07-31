@@ -59,4 +59,66 @@ There is a project for each week, found in the corresponding week's folder. You 
 Each day has 2 slots, one happening in the morning, from 9AM to 12:15AM, the other happening in the afternoon, from 1:30PM to 4:45PM. Each slot starts with a theoretical session in the lecture halls lasting 1:30 hours, followed by a workshop session after a 15 minute break. 
 
 There are 3 projects in the course of this SummerSchool, each a week
+
+## Theoretical Sessions
+
+During the theoretical sessions, the education material of the subjects specified will be taught by top faculties and researchers of Data Analytics and AI inside and outside Iran. These sessions are held as keynote presentations. Since the HandsOn workshops followed by these theoretical sessions will directly be related to them, and hence impossible to do without knowing the theory, it is important to be on time during these classes. Theoretical sessions are held in Electrical and Computer Faculty of Tehran University, Lecture Halls, Hall 2.
+
+## HandsOn workshops
+
+During the HandsOn workshops, you apply your gained theoretical knowledge and work on practical problems. You also get to connect with others and do networking. Please note that no question is a stupid question, so never feel discouraged to ask questions from others. Also be supportive of others and try to answer their questions. Afterall, asking questions is the way to detect our weakpoints and turn them into strong points! During these sessions, the mentors are there to help you, so use them to your advantage! Or just to chat! If you manage to finish all the HandsOn problems, please tell one of the mentors. They will introduce you to the Professors and they will personally divise for you even more challanging material to work on! If you have extra time, spend it on getting to know others, helping them, and networking. Ask your mentors to review your codes.
+
+## Projects
+
+Real data from real companies! The response, OBSstudio, deadlines
+
+## Development Environment
+Python 3/ Anaconda/ Jupyter Notebook/ Use colab in case of problems/ Presentation with OBSstudio
+
+## General Policies
+Recording, Attendance, Copyright, Online, Certificate, Dress Code,
+
+Food:
+Coffee/Tea break
+Bring/Order your lunch
+No Microwave oven
+No eating policy in class
+
+Things you need to attend:
+Pen and paper
+Laptop
+Mobile Hotspot
+Mobile and Laptop Charger
+Flash Memory
+Determination!
+
 ## - Rules and code of conduct
+
+## Feedback
+Transcript
+Referral to companies
+Feedback form
+Feedback to TAs
+Questions
+
+## Final Exam
+UT Certificate
+Transcript
+Grading Criteria
+
+## Networking
+Establish connections
+Ask/Answer questions
+Order food together
+
+## COVID-19
+If you have symptoms
+Facemask
+Wash hands/Disinfection
+
+## Considerations
+Diverse demographics
+Be on-time
+Your participation is key
+This is an introductory course
+This course may take a lot of your time
