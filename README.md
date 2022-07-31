@@ -3,6 +3,11 @@
 <img src="https://user-images.githubusercontent.com/20110907/182037116-6a4e1058-5734-430a-893d-f314bdcb9510.png" align="center"
      alt="logo" width="300">
      
+<img src="https://user-images.githubusercontent.com/20110907/182045047-98eb0919-97b2-448e-99a9-e4721901743b.png" align="right"
+     alt="logo" width="300">
+     ![logo2]()
+
+     
 Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
 
 This course has been compiled with the aim of providing basic and practical training for different concepts and methods of data analysis. During this course, the most prominent Iranian professors of artificial intelligence and data analysis inside and outside Iran participate in order to provide the best quality of education for students.
