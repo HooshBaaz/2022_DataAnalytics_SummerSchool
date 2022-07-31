@@ -1,6 +1,6 @@
 # HooshBaaz's 2022 Data Analytics Summer School
 
-<img src="https://user-images.githubusercontent.com/20110907/182037116-6a4e1058-5734-430a-893d-f314bdcb9510.png" align="center"
+<img src="https://user-images.githubusercontent.com/20110907/182037116-6a4e1058-5734-430a-893d-f314bdcb9510.png" align="left"
      alt="logo" width="250">
      
 <img src="https://user-images.githubusercontent.com/20110907/182045047-98eb0919-97b2-448e-99a9-e4721901743b.png" align="right"
