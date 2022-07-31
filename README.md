@@ -1,4 +1,4 @@
-# Hushbaz's 2022 Data Analytics Summer School
+# HooshBaaz's 2022 Data Analytics Summer School
 
 ![logo3](https://user-images.githubusercontent.com/20110907/182037116-6a4e1058-5734-430a-893d-f314bdcb9510.png)
 
