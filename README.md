@@ -1,6 +1,6 @@
 # HooshBaaz's 2022 Data Analytics Summer School
 
-![logo3](https://user-images.githubusercontent.com/20110907/182037116-6a4e1058-5734-430a-893d-f314bdcb9510.png  | width=200px)
+![logo3](https://user-images.githubusercontent.com/20110907/182037116-6a4e1058-5734-430a-893d-f314bdcb9510.png)
 
 Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
 
