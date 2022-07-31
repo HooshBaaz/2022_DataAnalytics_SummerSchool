@@ -6,3 +6,22 @@ This course has been compiled with the aim of providing basic and practical trai
 hands-on training sessions are held continuously throughout the course. In these classes, practical projects based on real problems and challenges are proposed by prominent computer companies "Tapsel", "Fidibo" and "Tapsi" and the students solve these challenges with the help of personal \textit{Mentors}. Finally, the distinguished graduates of this course will be introduced to our partner companies in the industry for job interviews.
 
 Graduates who get a passing grade in the course will be issued an official certificate by the University of Tehran. These graduates can participate in more advanced courses held by \textbf{HushBaz} in the future.
+
+# catalog
+- General info
+- Curriculum
+- Hands-on material
+- Projects
+- Rules and code of conduct
+- Certificate of completion
+- Who are we?
+- Contact info
+
+
+- Dates of holding: 28th of July 2022 (ششم مرداد هزار و چهارصد و یک) to 19 August 2022 (بیست و هشتم مرداد هزار و چهارصد و یک), on Thursdays and Fridays.
+- Course duration: 72 Hours including 24 Hours of theoretical training + 24 hours of practical training + 24 hours of project work.
+- Theoretical sessions are held in Electrical and Computer Faculty of Tehran University, Lecture Halls, Hall 2.
+- Practical sessions are held in Electrical and Computer Faculty of Tehran University, Old building, Shared workspace.
+- Evaluation method: project + final exam
+- Type of certificate: official bilingual certificate of Tehran University for graduates of the course, approved by the Ministry of Science.
+- Subject of the projects: practical projects designed by Tapsel, Fidibo and Tapsi companies.
