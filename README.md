@@ -1,7 +1,8 @@
 # HooshBaaz's 2022 Data Analytics Summer School
 
-![logo3](https://user-images.githubusercontent.com/20110907/182037116-6a4e1058-5734-430a-893d-f314bdcb9510.png)
-
+<img src="https://user-images.githubusercontent.com/20110907/182037116-6a4e1058-5734-430a-893d-f314bdcb9510.png" align="right"
+     alt="logo" width="120">
+     
 Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
 
 This course has been compiled with the aim of providing basic and practical training for different concepts and methods of data analysis. During this course, the most prominent Iranian professors of artificial intelligence and data analysis inside and outside Iran participate in order to provide the best quality of education for students.
@@ -122,3 +123,5 @@ Be on-time
 Your participation is key
 This is an introductory course
 This course may take a lot of your time
+
+## Who are we?
