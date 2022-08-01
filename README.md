@@ -47,28 +47,26 @@ Graduates who get a passing grade in the course will be issued an official certi
 - [Introduction Slides (OpenAI Logistics)](https://docs.google.com/presentation/d/14Ecq1H8HL4cUZ3KfeanhxS7FFTm4GwxxAQqrZJiAlmI/edit#slide=id.g13fa0b127a9_0_78)
 - [Website](openai.school)
 - [Email](info@openai.school)
-- [Week 1](week1/README.md)
+- [Week 1](week1/)
 - [Week 2]
 - [Week 3]
 - [Week 4]
 
 ## Curriculum
-Please refer to our [website](https://openai.school/) to know about the course schedule.
+Please refer to our [website](https://openai.school/) to know about the course schedule and subjects.
 
 ## Course Structure
 
-Each day has 2 slots, one happening in the morning, from 9AM to 12:15AM, the other happening in the afternoon, from 1:30PM to 4:45PM. Each slot starts with a theoretical session in the lecture halls lasting 1:30 hours, followed by a workshop session after a 15 minute break. 
-
-There are 3 projects in the course of this SummerSchool, each a week
+The course happens on Thursdays and Fridays on 4 consecutive weeks. Each day has 2 slots, one happening in the morning, from 9AM to 12:15AM, the other happening in the afternoon, from 1:30PM to 4:45PM. Each slot starts with a Theoretical Session in the lecture halls lasting 1:30 hours, followed by a  Hands-On Workshop session after a 15 minute break. There are 3 projects over the course of this SummerSchool, each happening on the weekdays between the weekends.
 
 ### Theoretical Sessions
 
-During the theoretical sessions, the education material of the subjects specified will be taught by top faculties and researchers of Data Analytics and AI inside and outside Iran. These sessions are held as keynote presentations. Since the HandsOn workshops followed by these theoretical sessions will directly be related to them, and hence impossible to do without knowing the theory, it is important to be on time during these classes. Theoretical sessions are held in Electrical and Computer Faculty of Tehran University, Lecture Halls, Hall 2.
+During the Theoretical Sessions, the education material of the subjects specified will be taught by top professors and researchers of Data Analytics and AI inside and outside Iran. Since the Hands-On Workshops are directly related to their preceding Theoretical Session, they might become harder to follow without knowing the theory. Hence, it is important to be on time during the Tehoretical Sessions. Note that the last day of HooshBaaz will contain 4 Theoretical Sessions and there will be no Hands-On Workshops. The Theoretical Sessions are held in the Electrical and Computer Faculty of the University of Tehran, Lecture Halls, Hall 2.
 
-### HandsOn workshops
+### Hands-On workshops
 
-During the HandsOn workshops, you apply your gained theoretical knowledge and work on practical problems. You also get to connect with others and do networking. Please note that no question is a stupid question, so never feel discouraged to ask questions from others. Also be supportive of others and try to answer their questions. Afterall, asking questions is the way to detect our weakpoints and turn them into strong points! During these sessions, the mentors are there to help you, so use them to your advantage! Or just to chat! If you manage to finish all the HandsOn problems, please tell one of the mentors. They will introduce you to the Professors and they will personally divise for you even more challanging material to work on! If you have extra time, spend it on getting to know others, helping them, and networking. Ask your mentors to review your codes.
-You can find the HandsOn material for each week in the corresponding week's folder. These files are in the form of Python Notebooks, covered in the workshop hours every day of the course.
+During the Hands-On workshops, you will apply your gained theoretical knowledge on practical problems. You also get to connect with others and do networking. Please note that no question is a stupid question, so never feel discouraged to ask questions from others students and the Mentors. Also be supportive of others and try to answer their questions. Afterall, asking questions is the way to detect our weakpoints and turn them into strong points! During these sessions, the mentors are there to assist you with your queries, so use them to your advantage! If you manage to finish all the Hands-On problems, please tell one of the Mentors. They will introduce you to the Professor present in HooshBaaz that day and they will personally divise for you even more challanging material to work on! If you find extra time or just want to rest a little, you can spend it on getting to know others, helping them, and networking. Ask your mentors to review your codes.
+You can find the HandsOn material for each week in the corresponding week's folder. These files are in the form of Python Notebooks, covered in the Hands-On Workshop hours.
 
 ### Projects
 
