@@ -16,14 +16,26 @@ hands-on training sessions are held continuously throughout the course. In these
 Graduates who get a passing grade in the course will be issued an official certificate by the University of Tehran. These graduates can participate in more advanced courses held by \textbf{HushBaz} in the future.
 
 # catalog
-- General info
-- Curriculum
-- Hands-on material
-- Projects
-- Rules and code of conduct
-- Certificate of completion
-- Who are we?
-- Contact info
+- [General Info](#general-info)
+- [Useful Links](#useful-links)
+- [Curriculum](#Curriculum)
+- [Class Structure](#class-structure)
+     - [Theoretical Sessions](#theoretical-sessions)
+     - [HandsOn Workshops](#handson-workshops)
+     - [Projects](#projects)
+- [Rules and Code of Conduct](#rules-and-code-of-conduct)
+- [Evaluation and Referral to Companies](#evaluation-and-referral-to-companies)
+- [Networking](#networking)
+- [Feedback and Contact](#feedback-and-contact)
+- [Miscellaneous](#miscellaneous)
+     - [Developement Environments](#developement-environments)
+     - [Things to Bring](#things-to-bring)
+     - [Considerations](#consideration)
+     - [Food](#food)
+     - [COVID-19](#covid-19)
+- [Who Are We?](#who-are-we?)
+
+
 
 ## General info
 - Event dates: 28th of July 2022 (ششم مرداد هزار و چهارصد و یک) to 19 August 2022 (بیست و هشتم مرداد هزار و چهارصد و یک), on Thursdays and Fridays.
@@ -65,15 +77,15 @@ Each day has 2 slots, one happening in the morning, from 9AM to 12:15AM, the oth
 
 There are 3 projects in the course of this SummerSchool, each a week
 
-## Theoretical Sessions
+### Theoretical Sessions
 
 During the theoretical sessions, the education material of the subjects specified will be taught by top faculties and researchers of Data Analytics and AI inside and outside Iran. These sessions are held as keynote presentations. Since the HandsOn workshops followed by these theoretical sessions will directly be related to them, and hence impossible to do without knowing the theory, it is important to be on time during these classes. Theoretical sessions are held in Electrical and Computer Faculty of Tehran University, Lecture Halls, Hall 2.
 
-## HandsOn workshops
+### HandsOn workshops
 
 During the HandsOn workshops, you apply your gained theoretical knowledge and work on practical problems. You also get to connect with others and do networking. Please note that no question is a stupid question, so never feel discouraged to ask questions from others. Also be supportive of others and try to answer their questions. Afterall, asking questions is the way to detect our weakpoints and turn them into strong points! During these sessions, the mentors are there to help you, so use them to your advantage! Or just to chat! If you manage to finish all the HandsOn problems, please tell one of the mentors. They will introduce you to the Professors and they will personally divise for you even more challanging material to work on! If you have extra time, spend it on getting to know others, helping them, and networking. Ask your mentors to review your codes.
 
-## Projects
+### Projects
 
 Real data from real companies! The response, OBSstudio, deadlines
 
