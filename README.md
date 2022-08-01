@@ -5,7 +5,6 @@
      
 <img src="https://user-images.githubusercontent.com/20110907/182045047-98eb0919-97b2-448e-99a9-e4721901743b.png" align="right"
      alt="logo" width="250">
-
      
 Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
 
@@ -19,7 +18,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 - [General Info](#general-info)
 - [Useful Links](#useful-links)
 - [Curriculum](#Curriculum)
-- [Class Structure](#class-structure)
+- [Course Structure](#class-structure)
      - [Theoretical Sessions](#theoretical-sessions)
      - [HandsOn Workshops](#handson-workshops)
      - [Projects](#projects)
@@ -35,8 +34,6 @@ Graduates who get a passing grade in the course will be issued an official certi
      - [COVID-19](#covid-19)
 - [Who Are We?](#who-are-we?)
 
-
-
 ## General info
 - Event dates: 28th of July 2022 (ششم مرداد هزار و چهارصد و یک) to 19 August 2022 (بیست و هشتم مرداد هزار و چهارصد و یک), on Thursdays and Fridays.
 - Course duration: 72 Hours including 24 Hours of theoretical training + 24 hours of practical training + 24 hours of project work.
@@ -50,7 +47,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 - [Introduction Slides (OpenAI Logistics)](https://docs.google.com/presentation/d/14Ecq1H8HL4cUZ3KfeanhxS7FFTm4GwxxAQqrZJiAlmI/edit#slide=id.g13fa0b127a9_0_78)
 - [Website](openai.school)
 - [Email](info@openai.school)
-- [Week 1]
+- [Week 1](Week1/README.md)
 - [Week 2]
 - [Week 3]
 - [Week 4]
@@ -58,7 +55,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 ## Curriculum
 Please refer to our [website](https://openai.school/) to know about the course schedule.
 
-## Class structure
+## Course Structure
 
 Each day has 2 slots, one happening in the morning, from 9AM to 12:15AM, the other happening in the afternoon, from 1:30PM to 4:45PM. Each slot starts with a theoretical session in the lecture halls lasting 1:30 hours, followed by a workshop session after a 15 minute break. 
 
@@ -135,11 +132,21 @@ Wash hands/Disinfection
 ## Who Are We?
 
 ### Coordinators
+Dr. Amin Sadeghi
+Rouhollah Abdolhasani
+
 ### Instructors
+Under Construction...
+
 ### Mentors
+[Yara M. Bahram](https://www.linkedin.com/in/yara-mohammadi-a850ab12a/)
+[Amir Mesbah](https://www.linkedin.com/in/amirhossein-mesbah/)
+[Zahra Habibzadeh](https://www.linkedin.com/in/zahra-habibzadeh-7aa80891/)
+[Banafsheh Karimian](https://www.linkedin.com/in/banafsheh-karimian-6127a8118/)
+[Farzaneh Hatami](https://www.linkedin.com/in/farzane-hatami-a3b076205/)
+[Ali Izadi](https://www.linkedin.com/in/ali-izadi/)
+[Tahmineh Koosha](https://www.linkedin.com/in/tahmineh-koosha-044158204/)
+[Mersad Esalati](https://www.linkedin.com/in/mersad-esalati/)
 
-Yara M. Bahram [![LinkedIn](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-
-[1]: https://www.linkedin.com/in/yara-mohammadi-a850ab12a/
-[2]: https://www.linkedin.com/in/your_contact_info
-[3]: https://www.facebook.com/your_contact_info
+## Supporters
+Under Construction
