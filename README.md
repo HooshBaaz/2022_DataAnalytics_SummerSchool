@@ -47,7 +47,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 - [Introduction Slides (OpenAI Logistics)](https://docs.google.com/presentation/d/14Ecq1H8HL4cUZ3KfeanhxS7FFTm4GwxxAQqrZJiAlmI/edit#slide=id.g13fa0b127a9_0_78)
 - [Website](openai.school)
 - [Email](info@openai.school)
-- [Week 1](Week1/README.md)
+- [Week 1](week1/README.md)
 - [Week 2]
 - [Week 3]
 - [Week 4]
