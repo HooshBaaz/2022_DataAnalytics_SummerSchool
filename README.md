@@ -6,6 +6,7 @@
 <img src="https://user-images.githubusercontent.com/20110907/182045047-98eb0919-97b2-448e-99a9-e4721901743b.png" align="left"
      alt="logo" width="250">
      
+<br/><br/><br/><br/>
 <hr style="border:2px solid gray">
 
 Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
