@@ -58,7 +58,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 - [Website](openai.school)
 - [Email](info@openai.school)
 - [Week 1](week1/)
-- [Week 2]
+- [Week 2](week2/)
 - [Week 3]
 - [Week 4]
 
