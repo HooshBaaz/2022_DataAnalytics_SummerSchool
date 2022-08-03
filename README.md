@@ -49,19 +49,14 @@ Graduates who get a passing grade in the course will be issued an official certi
 <hr style="border:2px solid gray">
 
 ## General info
-       Event dates: 28th of July 2022 (ششم مرداد هزار و چهارصد و یک) to 19 August 2022 (بیست و هشتم مرداد هزار و چهارصد و یک), on Thursdays and Fridays.
-       
-   Course duration: 72 Hours including 24 Hours of theoretical training + 24 hours of practical training + 24 hours of project work.
-   
-         Location1: Theoretical are held in Electrical and Computer Faculty of Tehran University, Lecture Halls, Hall 2.
-         
-         Location2: Practical sessions are held in Electrical and Computer Faculty of Tehran University, Old building, Shared workspace.
-         
- Evaluation method: project + final exam
- 
-       Certificate: official bilingual certificate of Tehran University for graduates of the course, approved by the Ministry of Science.
-       
-           Project Subjects: practical projects designed by Tapsel, Fidibo and Tapsi companies.
+
+- Event dates: 28th of July 2022 (ششم مرداد هزار و چهارصد و یک) to 19 August 2022 (بیست و هشتم مرداد هزار و چهارصد و یک), on Thursdays and Fridays.   
+- Course duration: 72 Hours including 24 Hours of theoretical training + 24 hours of practical training + 24 hours of project work.  
+- Location1: Theoretical are held in Electrical and Computer Faculty of Tehran University, Lecture Halls, Hall 2.      
+- Location2: Practical sessions are held in Electrical and Computer Faculty of Tehran University, Old building, Shared workspace.
+- Evaluation method: project + final exam
+- Certificate: official bilingual certificate of Tehran University for graduates of the course, approved by the Ministry of Science.
+- Project Subjects: practical projects designed by Tapsel, Fidibo and Tapsi companies.
 
 <hr style="border:2px solid gray">
 
@@ -105,71 +100,46 @@ There is a project from real companies with real data for each week. You should 
 Under Construction <!--Recording, Attendance, Copyright, Online, Certificate, Dress Code, -->
 
 ## Certification and Referral to Companies
-Under Construction <!--
-Final Exam
-UT Certificate
-Transcript
-Grading Criteria -->
+Under Construction <!-- Final Exam UT Certificate Transcript Grading Criteria -->
 
 ## Networking
-Under Construction <!--
-Establish connections
-Ask/Answer questions
-Order food together -->
+Under Construction <!-- Establish connections Ask/Answer questions Order food together -->
 
 ## Feedback and Contact
-Under Construction <!--
-Transcript
-Referral to companies
-Feedback form
-Feedback to TAs
-Questions -->
+Under Construction <!-- Transcript Referral to companies Feedback form Feedback to TAs Questions -->
 
 ## Miscellaneous
-Under Construction <!--
-### Developement Environments
+Under Construction 
+<!--### Developement Environments-->
+<!--Python 3/ Anaconda/ Jupyter Notebook/ Use colab in case of problems/ Presentation with OBSstudio-->
+<!--### Things to Bring -->
 
-Python 3/ Anaconda/ Jupyter Notebook/ Use colab in case of problems/ Presentation with OBSstudio
+<!--Pen and paper Laptop Mobile Hotspot Mobile and Laptop Charger Flash Memory Determination! -->
 
-### Things to Bring
+<!-- ### Considerations -->
+<!--Diverse demographics Be on-time Your participation is keyThis is an introductory course this course may take a lot of your time -->
 
-Pen and paper
-Laptop
-Mobile Hotspot
-Mobile and Laptop Charger
-Flash Memory
-Determination!
-
-### Considerations
-Diverse demographics
-Be on-time
-Your participation is key
-This is an introductory course
-This course may take a lot of your time
-
-### COVID-19
-If you have symptoms
-Facemask
-Wash hands/Disinfection
+<!--### COVID-19 If you have symptomsFacemask Wash hands/Disinfection -->
 -->
 ## Who Are We?
 
 ### Coordinators
-Dr. Amin Sadeghi
-Rouhollah Abdolhasani
+
+- Dr. Amin Sadeghi
+- Rouhollah Abdolhasani
 
 ### Instructors
-Under Construction <!---->
+Under Construction...
 
 ### Mentors
--[Yara M. Bahram](https://www.linkedin.com/in/yara-mohammadi-a850ab12a/)
--[Amir Mesbah](https://www.linkedin.com/in/amirhossein-mesbah/)
--[Zahra Habibzadeh](https://www.linkedin.com/in/zahra-habibzadeh-7aa80891/)
--[Banafsheh Karimian](https://www.linkedin.com/in/banafsheh-karimian-6127a8118/)
--[Farzaneh Hatami](https://www.linkedin.com/in/farzane-hatami-a3b076205/)
--[Ali Izadi](https://www.linkedin.com/in/ali-izadi/)
--[Tahmineh Koosha](https://www.linkedin.com/in/tahmineh-koosha-044158204/)
--[Mersad Esalati](https://www.linkedin.com/in/mersad-esalati/)
+- [Yara M. Bahram](https://www.linkedin.com/in/yara-mohammadi-a850ab12a/)
+- [Amir Mesbah](https://www.linkedin.com/in/amirhossein-mesbah/)
+- [Zahra Habibzadeh](https://www.linkedin.com/in/zahra-habibzadeh-7aa80891/)
+- [Banafsheh Karimian](https://www.linkedin.com/in/banafsheh-karimian-6127a8118/)
+- [Farzaneh Hatami](https://www.linkedin.com/in/farzane-hatami-a3b076205/)
+- [Ali Izadi](https://www.linkedin.com/in/ali-izadi/)
+- [Tahmineh Koosha](https://www.linkedin.com/in/tahmineh-koosha-044158204/)
+- [Mersad Esalati](https://www.linkedin.com/in/mersad-esalati/)
 
 ## Supporters
 Under Construction
