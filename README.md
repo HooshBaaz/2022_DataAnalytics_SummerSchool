@@ -14,6 +14,8 @@
 <hr style="border:2px solid gray">
 <hr style="border:2px solid gray">
 <hr style="border:2px solid gray">
+<hr style="border:2px solid gray">
+<hr style="border:2px solid gray">
 
 Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
 
