@@ -1,6 +1,3 @@
-<h1 align="center">
-    # HooshBaaz's 2022 Data Analytics Summer School
-</h1>
 
 <hr style="border:2px solid gray">
 
@@ -9,6 +6,9 @@
      alt="logo" width="250">   
 <img src="https://user-images.githubusercontent.com/20110907/182045047-98eb0919-97b2-448e-99a9-e4721901743b.png" align="right"
      alt="logo" width="250">
+    <h1 align="center">
+ HooshBaaz's 2022 Data Analytics Summer School
+</h1>
 </p>
 
 <br clear="left"/>
