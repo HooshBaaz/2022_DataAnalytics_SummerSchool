@@ -14,6 +14,7 @@
 <br clear="left"/>
 
 <hr style="border:2px solid gray">
+<hr style="border:2px solid gray">
 
 Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
 This course has been compiled with the aim of providing basic and practical training for different concepts and methods of data analysis. During this course, the most prominent Iranian professors of AI and Data Analysis inside and outside Iran participate in order to provide the best quality of education for students.
@@ -22,7 +23,6 @@ Moreover, Hands-On training sessions are held continuously throughout the course
 
 Graduates who get a passing grade in the course will be issued an official certificate by the University of Tehran. These graduates can participate in more advanced courses held by \textbf{HooshBaaz} in the future.
 
-<hr style="border:2px solid gray">
 <hr style="border:2px solid gray">
 <hr style="border:2px solid gray">
 
@@ -46,7 +46,7 @@ Graduates who get a passing grade in the course will be issued an official certi
      - [COVID-19](#covid-19)
 - [Who Are We?](#who-are-we?)
 
-<hr style="border:2px solid gray">
+
 <hr style="border:2px solid gray">
 <hr style="border:2px solid gray">
 
@@ -60,7 +60,6 @@ Graduates who get a passing grade in the course will be issued an official certi
 - Certificate: official bilingual certificate of Tehran University for graduates of the course, approved by the Ministry of Science.
 - Project Subjects: practical projects designed by Tapsel, Fidibo and Tapsi companies.
 
-<hr style="border:2px solid gray">
 
 ## Useful links
 - [Introduction Slides (OpenAI Logistics)](https://docs.google.com/presentation/d/14Ecq1H8HL4cUZ3KfeanhxS7FFTm4GwxxAQqrZJiAlmI/edit#slide=id.g13fa0b127a9_0_78)
