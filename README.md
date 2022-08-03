@@ -84,9 +84,7 @@ Real data from real companies! The response, OBSstudio, deadlines
 There is a project for each week, found in the corresponding week's folder. You should work on these projects on your own during each week and submit them via the project submission form in our [website](https://openai.school/) by the end of the week.
 
 - Project 1: Online Taxi service data analysis using numpy
- - Exceptional submissions will be selected and sent to Tapsi, along with a recommendation from "HooshBaz" for landing a Job Interview.
-- - Please mention in your project if you would like it to be sent to the recruiters of Tapsi.
-- Project 2: Torob
+- Project 2: Torob (To be announced)
 - Project 3: To be announced
 
 ## Rules and code of conduct
