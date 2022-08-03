@@ -1,4 +1,6 @@
-# HooshBaaz's 2022 Data Analytics Summer School
+<p align="center">
+    # HooshBaaz's 2022 Data Analytics Summer School
+</p>
 
 <hr style="border:2px solid gray">
 
