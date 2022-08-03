@@ -72,7 +72,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 <hr style="border:2px solid gray">
 
 ## Curriculum
-Please refer to our [website](https://openai.school/) to know about the course schedule and subjects.
+Please refer to [openai.school](https://openai.school/) to know about the course schedule and subjects.
 
 ## Course Structure
 
