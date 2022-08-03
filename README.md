@@ -8,17 +8,21 @@
 <img src="https://user-images.githubusercontent.com/20110907/182045047-98eb0919-97b2-448e-99a9-e4721901743b.png" align="right"
      alt="logo" width="250">
 </p>
-Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
+
 <br clear="left"/>
 
 <hr style="border:2px solid gray">
 
+Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
+This course has been compiled with the aim of providing basic and practical training for different concepts and methods of data analysis. During this course, the most prominent Iranian professors of AI and Data Analysis inside and outside Iran participate in order to provide the best quality of education for students.
 
-This course has been compiled with the aim of providing basic and practical training for different concepts and methods of data analysis. During this course, the most prominent Iranian professors of artificial intelligence and data analysis inside and outside Iran participate in order to provide the best quality of education for students.
+Moreover, Hands-On training sessions are held continuously throughout the course and practical projects based on real problems and challenges are proposed by prominent computer companies "Tapsel", "Fidibo" and "Tapsi". The students solve these challenges with the help of personal \textit{Mentors}. Finally, the distinguished graduates of this course will be introduced to our partner companies in the industry for job interviews.
 
-hands-on training sessions are held continuously throughout the course. In these classes, practical projects based on real problems and challenges are proposed by prominent computer companies "Tapsel", "Fidibo" and "Tapsi" and the students solve these challenges with the help of personal \textit{Mentors}. Finally, the distinguished graduates of this course will be introduced to our partner companies in the industry for job interviews.
+Graduates who get a passing grade in the course will be issued an official certificate by the University of Tehran. These graduates can participate in more advanced courses held by \textbf{HooshBaaz} in the future.
 
-Graduates who get a passing grade in the course will be issued an official certificate by the University of Tehran. These graduates can participate in more advanced courses held by \textbf{HushBaz} in the future.
+<hr style="border:2px solid gray">
+<hr style="border:2px solid gray">
+<hr style="border:2px solid gray">
 
 # catalog
 - [General Info](#general-info)
@@ -40,74 +44,85 @@ Graduates who get a passing grade in the course will be issued an official certi
      - [COVID-19](#covid-19)
 - [Who Are We?](#who-are-we?)
 
+<hr style="border:2px solid gray">
+<hr style="border:2px solid gray">
+<hr style="border:2px solid gray">
+
 ## General info
-- Event dates: 28th of July 2022 (ششم مرداد هزار و چهارصد و یک) to 19 August 2022 (بیست و هشتم مرداد هزار و چهارصد و یک), on Thursdays and Fridays.
-- Course duration: 72 Hours including 24 Hours of theoretical training + 24 hours of practical training + 24 hours of project work.
-- Theoretical sessions are held in Electrical and Computer Faculty of Tehran University, Lecture Halls, Hall 2.
-- Practical sessions are held in Electrical and Computer Faculty of Tehran University, Old building, Shared workspace.
+-       Event dates: 28th of July 2022 (ششم مرداد هزار و چهارصد و یک) to 19 August 2022 (بیست و هشتم مرداد هزار و چهارصد و یک), on Thursdays and Fridays.
+-   Course duration: 72 Hours including 24 Hours of theoretical training + 24 hours of practical training + 24 hours of project work.
+-         Location1: Theoretical are held in Electrical and Computer Faculty of Tehran University, Lecture Halls, Hall 2.
+-         Location2: Practical sessions are held in Electrical and Computer Faculty of Tehran University, Old building, Shared workspace.
 - Evaluation method: project + final exam
-- Type of certificate: official bilingual certificate of Tehran University for graduates of the course, approved by the Ministry of Science.
-- Subject of the projects: practical projects designed by Tapsel, Fidibo and Tapsi companies.
+-       Certificate: official bilingual certificate of Tehran University for graduates of the course, approved by the Ministry of Science.
+-  Project Subjects: practical projects designed by Tapsel, Fidibo and Tapsi companies.
+
+<hr style="border:2px solid gray">
 
 ## Useful links
 - [Introduction Slides (OpenAI Logistics)](https://docs.google.com/presentation/d/14Ecq1H8HL4cUZ3KfeanhxS7FFTm4GwxxAQqrZJiAlmI/edit#slide=id.g13fa0b127a9_0_78)
-- [Website](openai.school)
-- [Email](info@openai.school)
+- Website: [openai.school](openai.school)
+- Mail: [info@openai.school](info@openai.school)
 - [Week 1](week1/)
 - [Week 2](week2/)
 - [Week 3]
 - [Week 4]
+
+<hr style="border:2px solid gray">
 
 ## Curriculum
 Please refer to our [website](https://openai.school/) to know about the course schedule and subjects.
 
 ## Course Structure
 
-The course happens on Thursdays and Fridays on 4 consecutive weeks. Each day has 2 slots, one happening in the morning, from 9AM to 12:15AM, the other happening in the afternoon, from 1:30PM to 4:45PM. Each slot starts with a Theoretical Session in the lecture halls lasting 1:30 hours, followed by a  Hands-On Workshop session after a 15 minute break. There are 3 projects over the course of this SummerSchool, each happening on the weekdays between the weekends.
+The course happens on Thursdays and Fridays on 4 consecutive weeks. Each day has 2 slots, one happening in the morning, from 9AM to 12:15AM, the other happening in the afternoon, from 1:30PM to 4:45PM. Each slot starts with a Theoretical Session in the lecture halls lasting 1:30 hours, followed by a Hands-On Workshop after a 15 minute break. There are 3 projects over the course of this Summer-School, each happening on the weekdays between the weekends.
 
 ### Theoretical Sessions
 
-During the Theoretical Sessions, the education material of the subjects specified will be taught by top professors and researchers of Data Analytics and AI inside and outside Iran. Since the Hands-On Workshops are directly related to their preceding Theoretical Session, they might become harder to follow without knowing the theory. Hence, it is important to be on time during the Tehoretical Sessions. Note that the last day of HooshBaaz will contain 4 Theoretical Sessions and there will be no Hands-On Workshops. The Theoretical Sessions are held in the Electrical and Computer Faculty of the University of Tehran, Lecture Halls, Hall 2.
+During the Theoretical Sessions, the education material of the subjects specified will be taught by top professors and researchers of AI and Data Analytics inside and outside Iran. Since the Hands-On Workshops are directly related to their preceding Theoretical Session, they might become harder to follow without knowing the theory. Hence, it is important to be on time during the Tehoretical Sessions. Note that the last day of HooshBaaz will contain 4 Theoretical Sessions and there will be no Hands-On Workshops. The Theoretical Sessions are held in the Electrical and Computer Faculty of the University of Tehran, Lecture Halls, Hall 2.
 
 ### Hands-On workshops
 
-During the Hands-On workshops, you will apply your gained theoretical knowledge on practical problems. You also get to connect with others and do networking. Please note that no question is a stupid question, so never feel discouraged to ask questions from others students and the Mentors. Also be supportive of others and try to answer their questions. Afterall, asking questions is the way to detect our weakpoints and turn them into strong points! During these sessions, the mentors are there to assist you with your queries, so use them to your advantage! If you manage to finish all the Hands-On problems, please tell one of the Mentors. They will introduce you to the Professor present in HooshBaaz that day and they will personally divise for you even more challanging material to work on! If you find extra time or just want to rest a little, you can spend it on getting to know others, helping them, and networking. Ask your mentors to review your codes.
-You can find the HandsOn material for each week in the corresponding week's folder. These files are in the form of Python Notebooks, covered in the Hands-On Workshop hours.
+During the Hands-On workshops, you will apply your gained theoretical knowledge on practical problems. You also get to connect with others and do networking. Please note that no question is a stupid question, so never feel discouraged to ask questions from other students and the Mentors. Also be supportive of others and try to answer their questions. Afterall, asking questions is the way to detect weakpoints and turn them into strong-points! During these sessions, the mentors are there to assist you with your queries, so use them to your advantage! If you don't have questions, still ask your mentors to review your codes. If you manage to finish all the Hands-On problems, please tell one of the Mentors; They will introduce you to the Professor present in HooshBaaz that day and they will personally divise for you even more challanging material to work on! If you find extra time or just want to rest a little, you can spend it on getting to know others, helping them, and networking. 
+You can find the Hands-On material for each week in the corresponding week's folder. These files are in the form of Python Notebooks.
 
 ### Projects
 
 Real data from real companies! The response, OBSstudio, deadlines
-There is a project for each week, found in the corresponding week's folder. You should work on these projects on your own during each week and submit them via the project submission form in our [website](https://openai.school/) by the end of the week.
+There is a project from real companies with real data for each week. You should work on these projects on your own during the week and submit them via <!-- the project submission form (To be announced) %in our [website](https://openai.school/) by the end of the week. -->
 
 - Project 1: Online Taxi service data analysis using numpy
 - Project 2: Torob (To be announced)
-- Project 3: To be announced
+- Project 3: (To be announced)
 
 ## Rules and code of conduct
-Recording, Attendance, Copyright, Online, Certificate, Dress Code,
+Under Construction <!--Recording, Attendance, Copyright, Online, Certificate, Dress Code, -->
 
 ## Certification and Referral to Companies
+Under Construction <!--
 Final Exam
 UT Certificate
 Transcript
-Grading Criteria
+Grading Criteria -->
 
 ## Networking
+Under Construction <!--
 Establish connections
 Ask/Answer questions
-Order food together
+Order food together -->
 
 ## Feedback and Contact
-
+Under Construction <!--
 Transcript
 Referral to companies
 Feedback form
 Feedback to TAs
-Questions
+Questions -->
 
 ## Miscellaneous
-
+Under Construction <!--
 ### Developement Environments
+
 Python 3/ Anaconda/ Jupyter Notebook/ Use colab in case of problems/ Presentation with OBSstudio
 
 ### Things to Bring
@@ -130,7 +145,7 @@ This course may take a lot of your time
 If you have symptoms
 Facemask
 Wash hands/Disinfection
-
+-->
 ## Who Are We?
 
 ### Coordinators
@@ -138,17 +153,17 @@ Dr. Amin Sadeghi
 Rouhollah Abdolhasani
 
 ### Instructors
-Under Construction...
+Under Construction <!---->
 
 ### Mentors
-[Yara M. Bahram](https://www.linkedin.com/in/yara-mohammadi-a850ab12a/)
-[Amir Mesbah](https://www.linkedin.com/in/amirhossein-mesbah/)
-[Zahra Habibzadeh](https://www.linkedin.com/in/zahra-habibzadeh-7aa80891/)
-[Banafsheh Karimian](https://www.linkedin.com/in/banafsheh-karimian-6127a8118/)
-[Farzaneh Hatami](https://www.linkedin.com/in/farzane-hatami-a3b076205/)
-[Ali Izadi](https://www.linkedin.com/in/ali-izadi/)
-[Tahmineh Koosha](https://www.linkedin.com/in/tahmineh-koosha-044158204/)
-[Mersad Esalati](https://www.linkedin.com/in/mersad-esalati/)
+-[Yara M. Bahram](https://www.linkedin.com/in/yara-mohammadi-a850ab12a/)
+-[Amir Mesbah](https://www.linkedin.com/in/amirhossein-mesbah/)
+-[Zahra Habibzadeh](https://www.linkedin.com/in/zahra-habibzadeh-7aa80891/)
+-[Banafsheh Karimian](https://www.linkedin.com/in/banafsheh-karimian-6127a8118/)
+-[Farzaneh Hatami](https://www.linkedin.com/in/farzane-hatami-a3b076205/)
+-[Ali Izadi](https://www.linkedin.com/in/ali-izadi/)
+-[Tahmineh Koosha](https://www.linkedin.com/in/tahmineh-koosha-044158204/)
+-[Mersad Esalati](https://www.linkedin.com/in/mersad-esalati/)
 
 ## Supporters
 Under Construction
