@@ -96,6 +96,8 @@ There is a project from real companies with real data for each week. You should 
 - Project 2: Torob (To be announced)
 - Project 3: (To be announced)
 
+<hr style="border:2px solid gray">
+
 ## Rules and code of conduct
 Under Construction <!--Recording, Attendance, Copyright, Online, Certificate, Dress Code, -->
 
@@ -120,7 +122,9 @@ Under Construction
 <!--Diverse demographics Be on-time Your participation is keyThis is an introductory course this course may take a lot of your time -->
 
 <!--### COVID-19 If you have symptomsFacemask Wash hands/Disinfection -->
--->
+
+<hr style="border:2px solid gray">
+
 ## Who Are We?
 
 ### Coordinators
