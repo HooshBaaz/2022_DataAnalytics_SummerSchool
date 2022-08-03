@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
     # HooshBaaz's 2022 Data Analytics Summer School
-</p>
+</h1>
 
 <hr style="border:2px solid gray">
 
