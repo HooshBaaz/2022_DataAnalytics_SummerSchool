@@ -14,12 +14,11 @@
 <br clear="left"/>
 
 <hr style="border:2px solid gray">
-<hr style="border:2px solid gray">
 
 Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
 This course has been compiled with the aim of providing basic and practical training for different concepts and methods of data analysis. During this course, the most prominent Iranian professors of AI and Data Analysis inside and outside Iran participate in order to provide the best quality of education for students.
 
-Moreover, Hands-On training sessions are held continuously throughout the course and practical projects based on real problems and challenges are proposed by prominent computer companies "Tapsel", "Fidibo" and "Tapsi". The students solve these challenges with the help of personal \textit{Mentors}. Finally, the distinguished graduates of this course will be introduced to our partner companies in the industry for job interviews.
+Moreover, Hands-On training sessions are held continuously throughout the course and practical projects based on real problems and challenges are proposed by prominent computer companies "Tapsel", "Fidibo" and "Tapsi". The students solve these challenges with the help of personal Mentors. Finally, the distinguished graduates of this course will be introduced to our partner companies in the industry for job interviews.
 
 Graduates who get a passing grade in the course will be issued an official certificate by the University of Tehran. These graduates can participate in more advanced courses held by \textbf{HooshBaaz} in the future.
 
