@@ -122,13 +122,13 @@ Under Construction
 - Determination to learn!
 
 ### Food and Drinks
-Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. There are a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. In addition, there is a vending machine in the lobby of the Department of Electrical and Computer Engineering (New building). You can also find a workingn water cooler by the stairs on the first floor of the Department of Electrical and Computer Engineering (Old building). Note that there is a no eating or drinking policy inside the class and there are no microwave ovens available. 
+Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. There are a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. In addition, there is a vending machine in the lobby of the Department of Electrical and Computer Engineering (New building). You can also find a working water cooler by the stairs on the first floor of the Department of Electrical and Computer Engineering (Old building). Note that there is a no eating or drinking policy inside the class and there are no microwave ovens available. 
 
 <!-- ### Considerations -->
 <!--Diverse demographics Be on-time Your participation is keyThis is an introductory course this course may take a lot of your time -->
 
 ### COVID-19 
-Please let us know if you have symptoms and we will think something out. Please always wear facemask, and please wash and disinfect your hands frequently.
+Please let us know if you have symptoms and we will figure something out. Please always wear facemask, and please wash and disinfect your hands frequently.
 
 <hr style="border:2px solid gray">
 
@@ -140,7 +140,10 @@ Please let us know if you have symptoms and we will think something out. Please 
 - Rouhollah Abdolhasani
 
 ### Instructors
-Under Construction...
+
+- Dr. Amin Sadeghi
+- Rouhollah Abdolhasani
+- More to be announced...
 
 ### Mentors
 - [Yara M. Bahram](https://www.linkedin.com/in/yara-mohammadi-a850ab12a/)
