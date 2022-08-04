@@ -90,7 +90,7 @@ You can find the Hands-On material for each week in the corresponding week's fol
 ### Projects
 
 <!-- Real data from real companies! The response, OBSstudio, deadlines -->
-There is a project from real companies with real data for each week. You should work on these projects on your own during the week and submit them via <!-- the project submission form (To be announced) %in our [website](https://openai.school/) by the end of the week. -->
+There is a project from real companies with real data for each week. You should work on these projects on your own during the week and submit them via the project submission form (To be announced) <!-- %in our [website](https://openai.school/) by the end of the week. -->
 
 - Project 1: Online Taxi service data analysis using numpy
 - Project 2: Torob (To be announced)
