@@ -76,6 +76,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 | Week-Day | Theory 1 | Hands-On 1 | Theory 2 | Hands-On 2 |
 | :---         |     :---      |          :--- |          :--- |          :--- |
 | week1-day1   | Intro + Variables/Types/Operators in Python     | Installing Anaconda + writing simple programs   | Arrays/Conditions/Loops/Functions | Practicing basic Python skills |
+| week1-day2   | Intro to Numpy + data structures in Numpy     | Practicing Numpy basics   | Basic functions in Numpy + Intro to statistics | Advanced data analysis data with Numpy |
 | week2-day1     | Project 1 Recap + Intro to Pandas       | Working with unclean data in Pandas      | Data cleaning techniques in Pandas | Pivot/Groupby/Merge in Pandas |
 | week2-day2     | Data visualization with Matplotlib      | Visualization in Practice   | Data analysis by visualization | Advanced visualization techniques and different plots |
 
