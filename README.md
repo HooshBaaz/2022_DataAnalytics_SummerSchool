@@ -107,9 +107,6 @@ There is a project from real companies with real data for each week. You should 
 
 <hr style="border:2px solid gray">
 
-## Rules and code of conduct
-Under Construction <!--Recording, Attendance, Copyright, Online, Certificate, Dress Code, -->
-
 ## Certification and Referral to Companies
 Under Construction <!-- Final Exam UT Certificate Transcript Grading Criteria -->
 
