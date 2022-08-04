@@ -116,7 +116,7 @@ Under Construction
 <!--Python 3/ Anaconda/ Jupyter Notebook/ Use colab in case of problems/ Presentation with OBSstudio-->
 <!--### Things to Bring -->
 ### Food
-Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. Furthermore, there are no microwave ovens available. Note that there is a no eating or drinking policy inside the class. There are a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. Also there is a vending machine inside the new building of the Department of Electrical and Computer Engineering. 
+Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. Furthermore, there are no microwave ovens available. There are a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. Also there is a vending machine inside the new building of the Department of Electrical and Computer Engineering. Note that there is a no eating or drinking policy inside the class. 
 
 
 <!--Pen and paper Laptop Mobile Hotspot Mobile and Laptop Charger Flash Memory Determination! -->
