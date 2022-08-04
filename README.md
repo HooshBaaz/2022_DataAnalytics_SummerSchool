@@ -72,7 +72,6 @@ Graduates who get a passing grade in the course will be issued an official certi
 <hr style="border:2px solid gray">
 
 ## Curriculum
-Please refer to [openai.school](https://openai.school/) to know about the course schedule and subjects.
 
 | Week-Day | Theory1 | Hands-On1 | Theory2 | Hands-On2 |
 | :---         |     :---      |          :--- |          :--- |          :--- |
@@ -80,6 +79,7 @@ Please refer to [openai.school](https://openai.school/) to know about the course
 | week2-day1     | Project 1 Recap + Intro to Pandas       | Working with unclean data in Pandas      | Data cleaning techniques in Pandas | Pivot/Groupby/Merge in Pandas |
 | week2-day2     | Data visualization with Matplotlib      | Visualization in Practice   | Data analysis by visualization | Advanced visualization techniques and different plots |
 
+Please refer to [openai.school](https://openai.school/) for more information.
 
 ## Course Structure
 
