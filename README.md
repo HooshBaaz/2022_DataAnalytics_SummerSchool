@@ -128,7 +128,7 @@ Coffee and tea is served during the 15 minute breaks in between the Theoretical 
 <!--Diverse demographics Be on-time Your participation is keyThis is an introductory course this course may take a lot of your time -->
 
 ### COVID-19 
-Please let us know if you have symptoms and we will think something out. Please always wear facemask, and wash and disinfect your hands frequently and do preventive measures. 
+Please let us know if you have symptoms and we will think something out. Please always wear facemask, and please wash and disinfect your hands frequently.
 
 <hr style="border:2px solid gray">
 
