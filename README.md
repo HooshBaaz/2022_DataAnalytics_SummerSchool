@@ -74,6 +74,12 @@ Graduates who get a passing grade in the course will be issued an official certi
 ## Curriculum
 Please refer to [openai.school](https://openai.school/) to know about the course schedule and subjects.
 
+| Week-Day | Theory1 | Hands-On1 | Theory2 | Hands-On2
+| :---         |     :---      |          :--- |          :--- |
+| week1-day1   | Intro + Variables/Types/Operators in Python     | Installing Anaconda + writing simple programs   | Arrays/Conditions/Loops/Functions | Practicing basic Python skills |
+| week1-day2     | Intro to Numpy + Data Structures in Numpy      | Practicing Numpy basics      | Basic functions in Numpy + Intro to statistics | Analyzing data with Numpy |
+
+
 ## Course Structure
 
 The course happens on Thursdays and Fridays on 4 consecutive weeks. Each day has 2 slots, one happening in the morning, from 9AM to 12:15AM, the other happening in the afternoon, from 1:30PM to 4:45PM. Each slot starts with a Theoretical Session in the lecture halls lasting 1:30 hours, followed by a Hands-On Workshop after a 15 minute break. There are 3 projects over the course of this Summer-School, each happening on the weekdays between the weekends.
