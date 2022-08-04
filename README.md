@@ -86,6 +86,8 @@ Please refer to [openai.school](https://openai.school/) for more information.
 
 The course happens on Thursdays and Fridays on 4 consecutive weeks. Each day has 2 slots, one happening in the morning, from 9AM to 12:15AM, the other happening in the afternoon, from 1:30PM to 4:45PM. Each slot starts with a Theoretical Session in the lecture halls lasting 1:30 hours, followed by a Hands-On Workshop after a 15 minute break. There are 3 projects over the course of this Summer-School, each happening on the weekdays between the weekends.
 
+<!--Your participation is keyThis is an introductory course this course may take a lot of your time-->
+
 ### Theoretical Sessions
 
 During the Theoretical Sessions, the education material of the subjects specified will be taught by top professors and researchers of AI and Data Analytics inside and outside Iran. Since the Hands-On Workshops are directly related to their preceding Theoretical Session, they might become harder to follow without knowing the theory. Hence, it is important to be on time during the Tehoretical Sessions. Note that the last day of HooshBaaz will contain 4 Theoretical Sessions and there will be no Hands-On Workshops. The Theoretical Sessions are held in the Electrical and Computer Faculty of the University of Tehran, Lecture Halls, Hall 2.
@@ -111,16 +113,8 @@ Under Construction <!--Recording, Attendance, Copyright, Online, Certificate, Dr
 ## Certification and Referral to Companies
 Under Construction <!-- Final Exam UT Certificate Transcript Grading Criteria -->
 
-## Networking
-Under Construction <!-- Establish connections Ask/Answer questions Order food together -->
-
-## Feedback and Contact
-Under Construction <!-- Transcript Referral to companies Feedback form Feedback to TAs Questions -->
-
 ## Miscellaneous
-Under Construction 
-<!--### Developement Environments-->
-<!--Python 3/ Anaconda/ Jupyter Notebook/ Use colab in case of problems/ Presentation with OBSstudio-->
+
 ### Things to Bring 
 - Pen and paper 
 - Laptop
@@ -131,9 +125,6 @@ Under Construction
 
 ### Food and Drinks
 Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. There are a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. In addition, there is a vending machine in the lobby of the Department of Electrical and Computer Engineering (New building). You can also find a working water cooler by the stairs on the first floor of the Department of Electrical and Computer Engineering (Old building). Note that there is a no eating or drinking policy inside the classes and there are no microwave ovens available. 
-
-<!-- ### Considerations -->
-<!--Diverse demographics Be on-time Your participation is keyThis is an introductory course this course may take a lot of your time -->
 
 ### COVID-19 
 Please let us know if you have symptoms and we will figure something out. Please always wear facemask, and please wash and disinfect your hands frequently.
