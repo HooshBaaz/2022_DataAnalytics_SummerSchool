@@ -78,6 +78,8 @@ Please refer to [openai.school](https://openai.school/) to know about the course
 | :---         |     :---      |          :--- |          :--- |          :--- |
 | week1-day1   | Intro + Variables/Types/Operators in Python     | Installing Anaconda + writing simple programs   | Arrays/Conditions/Loops/Functions | Practicing basic Python skills |
 | week1-day2     | Intro to Numpy + Data Structures in Numpy      | Practicing Numpy basics      | Basic functions in Numpy + Intro to statistics | Analyzing data with Numpy |
+| :---         |     :---      |
+| Project | sd |
 
 
 ## Course Structure
