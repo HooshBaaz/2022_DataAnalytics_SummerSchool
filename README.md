@@ -53,8 +53,8 @@ Graduates who get a passing grade in the course will be issued an official certi
 
 - Event dates: 28th of July 2022 (ششم مرداد هزار و چهارصد و یک) to 19 August 2022 (بیست و هشتم مرداد هزار و چهارصد و یک), on Thursdays and Fridays.   
 - Course duration: 72 Hours including 24 Hours of theoretical training + 24 hours of practical training + 24 hours of project work.  
-- Location1: Theoretical are held in Electrical and Computer Faculty of Tehran University, Lecture Halls, Hall 2.      
-- Location2: Practical sessions are held in Electrical and Computer Faculty of Tehran University, Old building, Shared workspace.
+- Location1: Theoretical are held in the University of Tehran, Department of Electrical and Computer Engineering (Old building), Lecture Halls, Hall 2.      
+- Location2: Practical sessions are held in the University of Tehran, Department of Electrical and Computer Engineering (Old building), Shared workspace.
 - Evaluation method: project + final exam
 - Certificate: official bilingual certificate of Tehran University for graduates of the course, approved by the Ministry of Science.
 - Project Subjects: practical projects designed by Tapsel, Fidibo and Tapsi companies.
