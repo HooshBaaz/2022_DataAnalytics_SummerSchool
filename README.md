@@ -79,6 +79,10 @@ Graduates who get a passing grade in the course will be issued an official certi
 | week1-day2   | Intro to Numpy + data structures in Numpy     | Practicing Numpy basics   | Basic functions in Numpy + Intro to statistics | Advanced data analysis with Numpy |
 | week2-day1     | Project 1 Recap + Intro to Pandas       | Working with unclean data in Pandas      | Data cleaning techniques in Pandas | Pivot/Groupby/Merge in Pandas |
 | week2-day2     | Data visualization with Matplotlib      | Visualization in Practice   | Data analysis by visualization | Advanced visualization techniques and different plots |
+| week3-day1     |||||
+| week3-day2     |||||
+| week4-day1     |||||
+| week4-day2     |||||
 
 Please refer to [openai.school](https://openai.school/) for more information.
 
