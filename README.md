@@ -113,17 +113,22 @@ Under Construction <!-- Transcript Referral to companies Feedback form Feedback 
 Under Construction 
 <!--### Developement Environments-->
 <!--Python 3/ Anaconda/ Jupyter Notebook/ Use colab in case of problems/ Presentation with OBSstudio-->
-<!--### Things to Bring -->
+### Things to Bring 
+- Pen and paper 
+- Laptop
+- Phone with Hotspot ability
+- Cables and Charger
+- Flash Memory 
+- Determination to learn!
+
 ### Food
 Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. Furthermore, there are no microwave ovens available. There are a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. Also there is a vending machine in the lobby of the Department of Electrical and Computer Engineering (New building). Note that there is a no eating or drinking policy inside the class. 
-
-
-<!--Pen and paper Laptop Mobile Hotspot Mobile and Laptop Charger Flash Memory Determination! -->
 
 <!-- ### Considerations -->
 <!--Diverse demographics Be on-time Your participation is keyThis is an introductory course this course may take a lot of your time -->
 
-<!--### COVID-19 If you have symptomsFacemask Wash hands/Disinfection -->
+### COVID-19 
+Please let us know if you have symptoms and we will think something out. Please always wear facemask, and wash and disinfect your hands frequently and do preventive measures. 
 
 <hr style="border:2px solid gray">
 
