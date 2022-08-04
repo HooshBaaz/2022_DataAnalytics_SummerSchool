@@ -74,8 +74,8 @@ Graduates who get a passing grade in the course will be issued an official certi
 ## Curriculum
 Please refer to [openai.school](https://openai.school/) to know about the course schedule and subjects.
 
-| Week-Day | Theory1 | Hands-On1 | Theory2 | Hands-On2
-| :---         |     :---      |          :--- |          :--- |
+| Week-Day | Theory1 | Hands-On1 | Theory2 | Hands-On2 |
+| :---         |     :---      |          :--- |          :--- |          :--- |
 | week1-day1   | Intro + Variables/Types/Operators in Python     | Installing Anaconda + writing simple programs   | Arrays/Conditions/Loops/Functions | Practicing basic Python skills |
 | week1-day2     | Intro to Numpy + Data Structures in Numpy      | Practicing Numpy basics      | Basic functions in Numpy + Intro to statistics | Analyzing data with Numpy |
 
