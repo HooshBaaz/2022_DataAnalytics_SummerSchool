@@ -122,7 +122,7 @@ Under Construction
 - Determination to learn!
 
 ### Food and Drinks
-Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. There are a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. In addition, there is a vending machine in the lobby of the Department of Electrical and Computer Engineering (New building). You can also find a working water cooler by the stairs on the first floor of the Department of Electrical and Computer Engineering (Old building). Note that there is a no eating or drinking policy inside the class and there are no microwave ovens available. 
+Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. There are a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. In addition, there is a vending machine in the lobby of the Department of Electrical and Computer Engineering (New building). You can also find a working water cooler by the stairs on the first floor of the Department of Electrical and Computer Engineering (Old building). Note that there is a no eating or drinking policy inside the classes and there are no microwave ovens available. 
 
 <!-- ### Considerations -->
 <!--Diverse demographics Be on-time Your participation is keyThis is an introductory course this course may take a lot of your time -->
