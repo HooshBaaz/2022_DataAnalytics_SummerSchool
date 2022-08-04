@@ -77,9 +77,8 @@ Please refer to [openai.school](https://openai.school/) to know about the course
 | Week-Day | Theory1 | Hands-On1 | Theory2 | Hands-On2 |
 | :---         |     :---      |          :--- |          :--- |          :--- |
 | week1-day1   | Intro + Variables/Types/Operators in Python     | Installing Anaconda + writing simple programs   | Arrays/Conditions/Loops/Functions | Practicing basic Python skills |
-| week1-day2     | Intro to Numpy + Data Structures in Numpy      | Practicing Numpy basics      | Basic functions in Numpy + Intro to statistics | Analyzing data with Numpy |
-| :---         |     :---      |
-| Project | sd |
+| week2-day1     | Project 1 Recap + Intro to Pandas       | Working with unclean data in Pandas      | Data cleaning techniques in Pandas | Pivot/Groupby/Merge in Pandas |
+| week2-day2     | Data visualization with Matplotlib      | Visualization in Practice   | Data analysis by visualization | Advanced visualization techniques and different plots |
 
 
 ## Course Structure
