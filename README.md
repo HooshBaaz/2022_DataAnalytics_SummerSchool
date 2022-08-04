@@ -73,7 +73,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 
 ## Curriculum
 
-| Week-Day | Theory1 | Hands-On1 | Theory2 | Hands-On2 |
+| Week-Day | Theory 1 | Hands-On 1 | Theory 2 | Hands-On 2 |
 | :---         |     :---      |          :--- |          :--- |          :--- |
 | week1-day1   | Intro + Variables/Types/Operators in Python     | Installing Anaconda + writing simple programs   | Arrays/Conditions/Loops/Functions | Practicing basic Python skills |
 | week2-day1     | Project 1 Recap + Intro to Pandas       | Working with unclean data in Pandas      | Data cleaning techniques in Pandas | Pivot/Groupby/Merge in Pandas |
