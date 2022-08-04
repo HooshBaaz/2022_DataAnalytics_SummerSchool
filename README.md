@@ -20,7 +20,7 @@ This course has been compiled with the aim of providing basic and practical trai
 
 Moreover, Hands-On training sessions are held continuously throughout the course and practical projects based on real problems and challenges are proposed by prominent computer companies "Tapsel", "Fidibo" and "Tapsi". The students solve these challenges with the help of personal Mentors. Finally, the distinguished graduates of this course will be introduced to our partner companies in the industry for job interviews.
 
-Graduates who get a passing grade in the course will be issued an official certificate by the University of Tehran. These graduates can participate in more advanced courses held by <strong>HooshBaaz<\strong> in the future.
+Graduates who get a passing grade in the course will be issued an official certificate by the University of Tehran. These graduates can participate in more advanced courses held by <strong>HooshBaaz</strong> in the future.
 
 <hr style="border:2px solid gray">
 <hr style="border:2px solid gray">
