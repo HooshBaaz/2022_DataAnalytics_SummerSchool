@@ -38,7 +38,7 @@ Graduates who get a passing grade in the course will be issued an official certi
      - [Things to Bring](#things-to-bring)
      - [Food](#food)
      - [COVID-19](#covid-19)
-- [Who Are We?](#who-are-we?)
+- [Who Are We?](#who-are-we)
 
 
 <hr style="border:2px solid gray">
