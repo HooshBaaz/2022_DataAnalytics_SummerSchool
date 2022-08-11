@@ -52,7 +52,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 - Location2: Practical sessions are held in the University of Tehran, Department of Electrical and Computer Engineering (Old building), Shared workspace.
 - Evaluation method: project + final exam
 - Certificate: official bilingual certificate of Tehran University for graduates of the course, approved by the Ministry of Science.
-- Project Subjects: practical projects designed by Tapsel, Fidibo and Tapsi companies.
+- Project Subjects: practical projects designed by Tapsel, Fidibo and Taxi companies.
 
 
 ## Useful links
