@@ -61,8 +61,8 @@ Graduates who get a passing grade in the course will be issued an official certi
 - Mail: [info@openai.school](info@openai.school)
 - [Week 1](week1/)
 - [Week 2](week2/)
-- [Week 3]
-- [Week 4]
+- [Week 3](week3/)
+- [Week 4](week4/)
 
 <hr style="border:2px solid gray">
 
@@ -74,8 +74,8 @@ Graduates who get a passing grade in the course will be issued an official certi
 | week1-day2   | Intro to Numpy + data structures in Numpy     | Practicing Numpy basics   | Basic functions in Numpy + Intro to statistics | Advanced data analysis with Numpy |
 | week2-day1     | Project 1 Recap + Intro to Pandas       | Working with unclean data in Pandas      | Data cleaning techniques in Pandas | Pivot/Groupby/Merge in Pandas |
 | week2-day2     | Data visualization with Matplotlib      | Visualization in Practice   | Data analysis by visualization | Advanced visualization techniques and different plots |
-| week3-day1     |||||
-| week3-day2     |||||
+| week3-day1     | Data Crawling with Python | Crawling a football table and data cleaning | More on Crawling + Advanced Pandas techniques | Crawling a phone shop and data cleaning |
+| week3-day2     ||||| 
 | week4-day1     |||||
 | week4-day2     |||||
 
@@ -98,10 +98,10 @@ During the Hands-On workshops, you will apply your gained theoretical knowledge 
 ### Projects
 
 <!-- Real data from real companies! The response, OBSstudio, deadlines -->
-There is a project from real companies with real data for each week. You should work on these projects on your own during the week and submit them via the project submission form (To be announced) <!-- %in our [website](https://openai.school/) by the end of the week. -->
+There is a project from real companies with real data for each week. You should work on these projects on your own during the week and submit them via Telegram by the end of the week. Note that the large files belonging to your projects are not available in Git (e.g. videos, data), but the questions and the solutions are available here. The full project data is shared with you via Telegram. 
 
-- Project 1: Taxi data analysis using Numpy
-- Project 2: Torob (To be announced)
+- Project 1: [Taxi data analysis](week1/Project)
+- Project 2: [Torob EDA](week2/Project)
 - Project 3: (To be announced)
 
 <hr style="border:2px solid gray">
@@ -120,7 +120,7 @@ Under Construction <!-- Final Exam UT Certificate Transcript Grading Criteria --
 - Determination to learn!
 
 ### Food and Drinks
-Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. There are a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. In addition, there is a vending machine in the lobby of the Department of Electrical and Computer Engineering (New building). You can also find a working water cooler by the stairs on the first floor of the Department of Electrical and Computer Engineering (Old building). Note that there is a no eating or drinking policy inside the classes and there are no microwave ovens available. 
+Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. There are microwave ovens available to warm up your food in the basement of the Department of Electrical and Computer Engineering, just by the stairs (Old building). There are also a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. In addition, there is a vending machine in the lobby of the Department of Electrical and Computer Engineering (New building). You can also find a working water cooler by the stairs on the first floor of the Department of Electrical and Computer Engineering (Old building). Note that there is a no eating or drinking policy inside the classes
 
 ### COVID-19 
 Please let us know if you have symptoms and we will figure something out. Please always wear facemask, and please wash and disinfect your hands frequently.
