@@ -91,11 +91,13 @@ The course happens on Thursdays and Fridays on 4 consecutive weeks. Each day has
 
 During the Theoretical Sessions, the education material of the subjects specified will be taught by top professors and researchers of AI and Data Analytics inside and outside Iran. Since the Hands-On Workshops are directly related to their preceding Theoretical Session, they might become harder to follow without knowing the theory. Hence, it is important to be on time during the Tehoretical Sessions. Note that the last day of HooshBaaz will contain 4 Theoretical Sessions and there will be no Hands-On Workshops. The Theoretical Sessions are held in the Electrical and Computer Faculty of the University of Tehran, Lecture Halls, Hall 2.
 
-- The material covered in the theory sessions are partially available in the folder of their corresponding weeks.
+- The Theory sessions materials are partially available in the folder of their corresponding weeks.
 
 ### Hands-On workshops
 
 During the Hands-On workshops, you will apply your gained theoretical knowledge on practical problems. You also get to connect with others and do networking. During these sessions, the mentors are there to assist you with your queries, so use them to your advantage! If you don't have questions, still ask your mentors to review your codes. If you manage to finish all the Hands-On problems, please tell one of the Mentors; They will introduce you to the Professor present in HooshBaaz that day and they will personally divise for you even more challanging material to work on! If you find extra time or just want to rest a little, you can spend it on getting to know others, helping them, and networking. Please note that no question is a stupid question, so never feel discouraged to ask questions from the Mentors and even other students. Also be supportive of others and try to answer their questions if you can. Afterall, asking questions is the way to detect weakpoints and turn them into strong-points! You can find the Hands-On material for each week in the corresponding week's folder. These files are in the form of Python Notebooks.
+
+- The Hands-On materials are available in the folder of their corresponding weeks.
 
 ### Projects
 
@@ -105,6 +107,8 @@ There is a project from real companies with real data for each week. You should 
 - Project 1: [Taxi data analysis](week1/Project)
 - Project 2: [Torob EDA](week2/Project)
 - Project 3: (To be announced)
+
+- The Project materials are partially available in the folder of their corresponding weeks (Only the small files).
 
 <hr style="border:2px solid gray">
 
