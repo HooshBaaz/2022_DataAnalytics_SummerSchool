@@ -108,8 +108,6 @@ There is a project from real companies with real data for each week. You should 
 - Project 2: [Torob EDA](week2/Project)
 - Project 3: (To be announced)
 
-- The Project materials are partially available in the folder of their corresponding weeks (Only the small files).
-
 <hr style="border:2px solid gray">
 
 ## Certification and Referral to Companies
