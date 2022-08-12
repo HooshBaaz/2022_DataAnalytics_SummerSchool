@@ -52,7 +52,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 - Location2: Practical sessions are held in the University of Tehran, Department of Electrical and Computer Engineering (Old building), Shared workspace.
 - Evaluation method: project + final exam
 - Certificate: official bilingual certificate of Tehran University for graduates of the course, approved by the Ministry of Science.
-- Project Subjects: practical projects designed by Tapsel, Fidibo and Tapsi companies.
+- Project Subjects: practical projects designed by HooshBaaz (Taxi Project), Torob, and (to be announced).
 
 
 ## Useful links
@@ -61,8 +61,8 @@ Graduates who get a passing grade in the course will be issued an official certi
 - Mail: [info@openai.school](info@openai.school)
 - [Week 1](week1/)
 - [Week 2](week2/)
-- [Week 3]
-- [Week 4]
+- [Week 3](week3/)
+- [Week 4](week4/)
 
 <hr style="border:2px solid gray">
 
@@ -74,8 +74,8 @@ Graduates who get a passing grade in the course will be issued an official certi
 | week1-day2   | Intro to Numpy + data structures in Numpy     | Practicing Numpy basics   | Basic functions in Numpy + Intro to statistics | Advanced data analysis with Numpy |
 | week2-day1     | Project 1 Recap + Intro to Pandas       | Working with unclean data in Pandas      | Data cleaning techniques in Pandas | Pivot/Groupby/Merge in Pandas |
 | week2-day2     | Data visualization with Matplotlib      | Visualization in Practice   | Data analysis by visualization | Advanced visualization techniques and different plots |
-| week3-day1     |||||
-| week3-day2     |||||
+| week3-day1     | Data Crawling with Python | Crawling a football table and data cleaning | More on Crawling + Advanced Pandas techniques | Crawling a phone shop and data cleaning |
+| week3-day2     ||||| 
 | week4-day1     |||||
 | week4-day2     |||||
 
@@ -91,17 +91,21 @@ The course happens on Thursdays and Fridays on 4 consecutive weeks. Each day has
 
 During the Theoretical Sessions, the education material of the subjects specified will be taught by top professors and researchers of AI and Data Analytics inside and outside Iran. Since the Hands-On Workshops are directly related to their preceding Theoretical Session, they might become harder to follow without knowing the theory. Hence, it is important to be on time during the Tehoretical Sessions. Note that the last day of HooshBaaz will contain 4 Theoretical Sessions and there will be no Hands-On Workshops. The Theoretical Sessions are held in the Electrical and Computer Faculty of the University of Tehran, Lecture Halls, Hall 2.
 
+- The Theory sessions materials are partially available in the folder of their corresponding weeks.
+
 ### Hands-On workshops
 
 During the Hands-On workshops, you will apply your gained theoretical knowledge on practical problems. You also get to connect with others and do networking. During these sessions, the mentors are there to assist you with your queries, so use them to your advantage! If you don't have questions, still ask your mentors to review your codes. If you manage to finish all the Hands-On problems, please tell one of the Mentors; They will introduce you to the Professor present in HooshBaaz that day and they will personally divise for you even more challanging material to work on! If you find extra time or just want to rest a little, you can spend it on getting to know others, helping them, and networking. Please note that no question is a stupid question, so never feel discouraged to ask questions from the Mentors and even other students. Also be supportive of others and try to answer their questions if you can. Afterall, asking questions is the way to detect weakpoints and turn them into strong-points! You can find the Hands-On material for each week in the corresponding week's folder. These files are in the form of Python Notebooks.
 
+- The Hands-On materials are available in the folder of their corresponding weeks.
+
 ### Projects
 
 <!-- Real data from real companies! The response, OBSstudio, deadlines -->
-There is a project from real companies with real data for each week. You should work on these projects on your own during the week and submit them via the project submission form (To be announced) <!-- %in our [website](https://openai.school/) by the end of the week. -->
+There is a project from real companies with real data for each week. You should work on these projects on your own during the week and submit them via Telegram by the end of the week. Note that the large files belonging to your projects are not available in Git (e.g. videos, data), but the questions and the solutions are available here. The full project data is shared with you via Telegram. 
 
-- Project 1: Taxi data analysis using Numpy
-- Project 2: Torob (To be announced)
+- Project 1: [Taxi data analysis](week1/Project)
+- Project 2: [Torob EDA](week2/Project)
 - Project 3: (To be announced)
 
 <hr style="border:2px solid gray">
@@ -120,7 +124,7 @@ Under Construction <!-- Final Exam UT Certificate Transcript Grading Criteria --
 - Determination to learn!
 
 ### Food and Drinks
-Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. There are a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. In addition, there is a vending machine in the lobby of the Department of Electrical and Computer Engineering (New building). You can also find a working water cooler by the stairs on the first floor of the Department of Electrical and Computer Engineering (Old building). Note that there is a no eating or drinking policy inside the classes and there are no microwave ovens available. 
+Coffee and tea is served during the 15 minute breaks in between the Theoretical and Hands-On sessions. However, you have to bring or order your own lunch. There are microwave ovens available to warm up your food in the basement of the Department of Electrical and Computer Engineering, just by the stairs (Old building). There are also a couple of places you can get food from in the campus. There is a Cafeteria behind the lecture halls. They serve fastfood and drinks. In addition, there is a vending machine in the lobby of the Department of Electrical and Computer Engineering (New building). You can also find a working water cooler by the stairs on the first floor of the Department of Electrical and Computer Engineering (Old building). Note that there is a no eating or drinking policy inside the classes
 
 ### COVID-19 
 Please let us know if you have symptoms and we will figure something out. Please always wear facemask, and please wash and disinfect your hands frequently.
@@ -138,7 +142,15 @@ Please let us know if you have symptoms and we will figure something out. Please
 
 - Dr. Amin Sadeghi
 - Rouhollah Abdolhasani
-- More to be announced...
+- More to be announced
+-
+-
+-
+-
+-
+-
+-
+
 
 ### Mentors
 - [Yara M. Bahram](https://www.linkedin.com/in/yara-mohammadi-a850ab12a/)

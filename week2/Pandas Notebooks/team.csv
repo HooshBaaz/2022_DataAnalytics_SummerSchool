@@ -1,0 +1,12 @@
+name,gender,start_date,salary,bonus,senior_management,team
+Thomas,Male,3/31/1996,61933,4.17,TRUE,?
+Louise,Female,8/12/1980,63241,_,TRUE,
+?,Male,6/14/2012,125792,5.042,,
+?,Male,8/21/1998,122340,6.417,,
+James,,1/26/2005,128771,8.309,FALSE,
+,,,,,_,
+Christopher,Male,4/22/2000,37919,,FALSE,
+,Female,10/3/1990,132373,11.449,,
+Jonathan,Male,7/17/2009,130581,,TRUE,
+Michael,Male,1/24/2002,43586,12.659,FALSE,
+Jeremy,Male,6/14/1988,129460,13.657,TRUE,
