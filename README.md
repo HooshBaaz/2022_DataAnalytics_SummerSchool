@@ -142,7 +142,15 @@ Please let us know if you have symptoms and we will figure something out. Please
 
 - Dr. Amin Sadeghi
 - Rouhollah Abdolhasani
-- More to be announced...
+- More to be announced
+-
+-
+-
+-
+-
+-
+-
+
 
 ### Mentors
 - [Yara M. Bahram](https://www.linkedin.com/in/yara-mohammadi-a850ab12a/)
