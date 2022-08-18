@@ -140,11 +140,14 @@ Please let us know if you have symptoms and we will figure something out. Please
 
 ### Instructors
 
-- Dr. Amin Sadeghi
-- Rouhollah Abdolhasani
-- More to be announced
--
--
+- Dr. Amin Sadeghi    -   (Professor of AI at the University of Tehran) 
+- Dr. Behnam Bahrak   -   (Professor of AI at the University of Tehran)
+- Dr. Masoud Mazloom   -  (Head of Mashhad Data Analysis Innovation Center)
+- Dr. Mahdi Safarnejad -  (Head of Data Analysis at Sahab Pardaz)
+- Dr. Taher Pilehvar  -   (Professor of AI at Tehran Institute for Advanced Studies)
+- Dr. Ali Eslami     -    (Research scientist at Google DeepMind)
+- Ali Elahi        -      (Head of AI at Tapsi)
+- Rouhollah Abdolhasani - (Neuroscience researcher at IPM)
 -
 -
 -
