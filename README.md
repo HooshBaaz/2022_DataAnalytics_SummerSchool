@@ -75,18 +75,9 @@ Graduates who get a passing grade in the course will be issued an official certi
 | week2-day1     | Project 1 Recap + Intro to Pandas       | Working with unclean data in Pandas      | Data cleaning techniques in Pandas | Pivot/Groupby/Merge in Pandas |
 | week2-day2     | Data visualization with Matplotlib      | Visualization in Practice   | Data analysis by visualization | Advanced visualization techniques and different plots |
 | week3-day1     | Data Crawling with Python | Crawling a football table and data cleaning | More on Crawling + Advanced Pandas techniques | Crawling a phone shop and data cleaning |
-
-| Week-Day | Theory 1 | Theory 2 | Theory 3 | Hands-On |
-| :---         |     :---      |          :--- |          :--- |          :--- |
-| week3-day2     |  Statistical inference for data analysis | Statistical tests for data analysis + Natural Language Processing | Predictive Analysis and Regression | Regression Hands-on using Scikit-Learn | 
-
-| Week-Day | Theory 1 | Hands-On 1 | Theory 2 | Hands-On 2 |
-| :---         |     :---      |          :--- |          :--- |          :--- |
+| week3-day2     |  Statistical inference for data analysis | (Theory) Statistical tests for data analysis + Natural Language Processing | Predictive Analysis and Regression | Regression Hands-on using Scikit-Learn | 
 | week4-day1     | Solving project 2 + Predictive Analysis and Classification | Classification Hands-On 1 | | Classification Hands-On 2 |
-
-| Week-Day | Theory 1 | Theory 2 | Theory 3 | Hands-On |
-| :---         |     :---      |          :--- |          :--- |          :--- |
-| week4-day2     | Introduction to Neural Networks | Future of AI | Building Neural Networks with Keras | Keras Hands-On |
+| week4-day2     | Introduction to Neural Networks | (Theory) Future of AI | Building Neural Networks with Keras | Keras Hands-On |
 
 Please refer to [openai.school](https://openai.school/) for more information.
 
