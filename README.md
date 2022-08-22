@@ -104,9 +104,9 @@ During the Hands-On workshops, you will apply your gained theoretical knowledge 
 <!-- Real data from real companies! The response, OBSstudio, deadlines -->
 There is a project from real companies with real data for each week. You should work on these projects on your own during the week and submit them via Telegram by the end of the week. Note that the large files belonging to your projects are not available in Git (e.g. videos, data), but the questions and the solutions are available here. The full project data is shared with you via Telegram. 
 
-- Project 1: [Taxi data analysis](week1/Project)
-- Project 2: [Torob EDA](week2/Project)
-- Project 3: (To be announced)
+- Project 1: [Taxi Data Analysis](week1/Project)
+- Project 2: [Torob Exploratory analysis](week2/Project)
+- Project 3: [Tapsell Predictive Analysis](week3/Project)
 
 <hr style="border:2px solid gray">
 
