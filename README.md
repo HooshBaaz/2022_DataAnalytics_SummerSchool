@@ -75,9 +75,9 @@ Graduates who get a passing grade in the course will be issued an official certi
 | week2-day1     | Project 1 Recap + Intro to Pandas       | Working with unclean data in Pandas      | Data cleaning techniques in Pandas | Pivot/Groupby/Merge in Pandas |
 | week2-day2     | Data visualization with Matplotlib      | Visualization in Practice   | Data analysis by visualization | Advanced visualization techniques and different plots |
 | week3-day1     | Data Crawling with Python | Crawling a football table and data cleaning | More on Crawling + Advanced Pandas techniques | Crawling a phone shop and data cleaning |
-| week3-day2     ||||| 
-| week4-day1     |||||
-| week4-day2     |||||
+| week3-day2     |  Statistical inference for data analysis | (Theory) Statistical tests for data analysis + Natural Language Processing | Predictive Analysis and Regression | Regression Hands-on using Scikit-Learn | 
+| week4-day1     | Solving project 2 + Predictive Analysis and Classification | Classification Hands-On 1 | | Classification Hands-On 2 |
+| week4-day2     | Introduction to Neural Networks | (Theory) Future of AI | Building Neural Networks with Keras | Keras Hands-On |
 
 Please refer to [openai.school](https://openai.school/) for more information.
 
@@ -104,9 +104,9 @@ During the Hands-On workshops, you will apply your gained theoretical knowledge 
 <!-- Real data from real companies! The response, OBSstudio, deadlines -->
 There is a project from real companies with real data for each week. You should work on these projects on your own during the week and submit them via Telegram by the end of the week. Note that the large files belonging to your projects are not available in Git (e.g. videos, data), but the questions and the solutions are available here. The full project data is shared with you via Telegram. 
 
-- Project 1: [Taxi data analysis](week1/Project)
-- Project 2: [Torob EDA](week2/Project)
-- Project 3: (To be announced)
+- Project 1: [Taxi Data Analysis](week1/Project)
+- Project 2: [Torob Exploratory analysis](week2/Project)
+- Project 3: [Tapsell Predictive Analysis](week3/Project)
 
 <hr style="border:2px solid gray">
 
