@@ -76,7 +76,7 @@ Graduates who get a passing grade in the course will be issued an official certi
 | week2-day2     | Data visualization with Matplotlib      | Visualization in Practice   | Data analysis by visualization | Advanced visualization techniques and different plots |
 | week3-day1     | Data Crawling with Python | Crawling a football table and data cleaning | More on Crawling + Advanced Pandas techniques | Crawling a phone shop and data cleaning |
 | week3-day2     |  Statistical inference for data analysis | (Theory) Statistical tests for data analysis + Natural Language Processing | Predictive Analysis and Regression | Regression Hands-on using Scikit-Learn | 
-| week4-day1     | Solving project 2 + Predictive Analysis and Classification | Classification Hands-On 1 | | Classification Hands-On 2 |
+| week4-day1     | Solving project 2 + Predictive Analysis and Classification | Classification Hands-On 1 | Classification Part 2 | Classification Hands-On 2 |
 | week4-day2     | Introduction to Neural Networks | (Theory) Future of AI | Building Neural Networks with Keras | Keras Hands-On |
 
 Please refer to [openai.school](https://openai.school/) for more information.
@@ -150,9 +150,7 @@ Please let us know if you have symptoms and we will figure something out. Please
 - Rouhollah Abdolhasani - (Neuroscience researcher at IPM)
 -
 -
--
--
--
+
 
 
 ### Mentors
