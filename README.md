@@ -1,5 +1,5 @@
 # Hushbaz's 2022 Data Analytics Summer School
-Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran.
+Welcome to the repo for the 2022 Data Analytics Summer School at the University of Tehran
 
 This course has been compiled with the aim of providing basic and practical training for different concepts and methods of data analysis. During this course, the most prominent Iranian professors of artificial intelligence and data analysis inside and outside Iran participate in order to provide the best quality of education for students.
 
