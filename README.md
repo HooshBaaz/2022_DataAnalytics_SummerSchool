@@ -150,9 +150,7 @@ Please let us know if you have symptoms and we will figure something out. Please
 - Rouhollah Abdolhasani - (Neuroscience researcher at IPM)
 -
 -
--
--
--
+
 
 
 ### Mentors
